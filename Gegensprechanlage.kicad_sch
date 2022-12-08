@@ -932,7 +932,7 @@
     (property "Value" "10k" (id 1) (at 141.478 40.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 136.906 39.37 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 136.906 39.37 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 138.684 39.37 0)
@@ -966,7 +966,7 @@
     (property "Value" "100" (id 1) (at 166.624 65.0239 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 166.37 63.754 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 166.37 63.754 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 164.592 63.754 0)
@@ -1199,10 +1199,10 @@
       (reference "P1") (unit 1) (value "22k") (footprint "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal")
     )
     (path "/09a0b952-72b4-4f9d-ae47-bc8c7f6b5506"
-      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/253dbdf2-b965-4aaf-8efd-84807bdb3a9c"
-      (reference "R2") (unit 1) (value "100") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R2") (unit 1) (value "100") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/5714d565-665d-4898-977c-24bbbb44a2b6"
       (reference "SP1") (unit 1) (value "Speaker") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
